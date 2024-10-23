@@ -1,7 +1,7 @@
 [project]
 name = "crawler"
 version = "0.1.0"
-description = "Add your description here"
+description = "Search for and rescue life support pods after failed launch from planet surface"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
