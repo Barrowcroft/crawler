@@ -1,0 +1,60 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "crawler.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "crawler.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 471,
+                "y": 175
+            }
+        },
+        "crawler.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_one.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 6400,
+                "y": 6400.5
+            }
+        },
+        "level_one.tmx#Map": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/krbj6/Documents/Python/Projects/crawler/crawler/assets/maps",
+    "last.imagePath": "C:/Users/krbj6/Documents/Python/Projects/crawler/crawler/assets/maps",
+    "map.height": 200,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 200,
+    "openFiles": [
+        "crawler.tmx"
+    ],
+    "project": "crawler.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "crawler.tmx",
+        "level_one.tmx",
+        "crawler.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 6,
+    "tileset.spacing": 6,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
